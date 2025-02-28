@@ -84,8 +84,8 @@ const sampleData = [
       country: "United Arab Emirates"
     },
     {
-      title: "Lakeside Cabin Retreat",
-      description: "Relax in a quiet cabin by the lake, perfect for fishing and campfires.",
+      title: "kubernites ",
+      description: "master kubernities and docker.",
       image: {
         url:"https://web.whatsapp.com/20a03eb1-6985-4259-ac43-ed3252736cd8",
         filename:"Listing"
@@ -98,8 +98,8 @@ const sampleData = [
       country: "United States"
     },
     {
-      title: "Historical Castle Stay",
-      description: "Stay in a centuries-old castle and experience medieval luxury.",
+      title: "docker for beginners",
+      description: "master container archietecture.",
       image:{
         url: "https://cdn01.alison-static.net/courses/7216/alison_courseware_intro_7216.jpg",    filename:"Listing"  
 
@@ -112,8 +112,8 @@ const sampleData = [
       country: "Scotland"
     },
     {
-      title: "Jungle Treehouse Escape",
-      description: "Sleep among the treetops in this unique jungle treehouse.",
+      title: "Cloud Computing",
+      description: "Learn cloued computing services and architecture.",
       image:{
         url:"https://img.freepik.com/free-psd/artificial-intelligence-template-design_23-2151640385.jpg?t=st=1740713460~exp=1740717060~hmac=dd533d10ea0446136eb798290fcb835d9ac96166618d482695bbd3538cb9ccad&w=826",filename:"Listing"
       } ,
@@ -125,8 +125,8 @@ const sampleData = [
       country: "india"
     },
     {
-      title: "Ice Hotel Igloo Experience",
-      description: "Experience the magic of an igloo stay in a real ice hotel.",
+      title: "Machine learning",
+      description: "Master Python and its applications in Data Science..",
       image:{
         url:"https://cdn01.alison-static.net/courses/7216/alison_courseware_intro_7216.jpg",filename:"Listing"
       } ,
@@ -138,8 +138,8 @@ const sampleData = [
       country: "Finland"
     },
     {
-        title: "Oceanfront Paradise Retreat",
-        description: "Enjoy the serenity of ocean waves in this luxurious beachfront retreat with stunning views.",
+        title: "Python for data science",
+        description: "Become a full-stack web developer using MERN stack..",
         image:{
           url:"https://www.goclasses.in/s/store/courses/65cc846ae4b0a7d6add2a8dd/cover.jpg?v=1",filename:"Listing"
         } ,
@@ -151,8 +151,8 @@ const sampleData = [
         country: "United States"
       },
       {
-        title: "Luxury Santorini Escape",
-        description: "Stay in an elegant villa overlooking the Aegean Sea with world-class amenities.",
+        title: "Full stack web development",
+        description: "Become a full-stack web developer using MERN stack.",
         image:{
           url:"https://img.freepik.com/free-psd/artificial-intelligence-template-design_23-2151640385.jpg?t=st=1740713460~exp=1740717060~hmac=dd533d10ea0446136eb798290fcb835d9ac96166618d482695bbd3538cb9ccad&w=826",filename:"Listing"
         } , 
@@ -164,8 +164,8 @@ const sampleData = [
         country: "Greece"
       },
       {
-        title: "Alpine Mountain Chalet",
-        description: "A cozy wooden chalet nestled in the mountains, perfect for skiing and relaxation.",
+        title: "React for beginners",
+        description: "Learn React from scratch and build modern web applications.",
         image:{
           url:"https://img.freepik.com/free-psd/artificial-intelligence-template-design_23-2151640385.jpg?t=st=1740713460~exp=1740717060~hmac=dd533d10ea0446136eb798290fcb835d9ac96166618d482695bbd3538cb9ccad&w=826",filename:"Listing"
         } , 
