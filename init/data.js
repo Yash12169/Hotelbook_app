@@ -1,7 +1,7 @@
 const sampleData = [
     {
-      title: "Cozy Beachfront Cottage",
-      description: "Escape to this charming beachfront cottage for a relaxing getaway. Enjoy stunning ocean views and easy access to the beach.",
+      title: "Software Engineering",
+      description: "earn React from scratch and build modern web applications.",
       image:{
         url :"https://cdn01.alison-static.net/courses/6831/alison_courseware_intro_6831.jpg",
         filename:"Listing"
@@ -14,8 +14,8 @@ const sampleData = [
       country: "United States"
     },
     {
-      title: "Luxury Villa in Santorini",
-      description: "Stay in a luxurious villa with a private infinity pool and stunning sea views.",
+      title: "Blockchain for Developers",
+      description: "Learn the fundamentals of blockchain development.",
       image:{
         url :"https://cdn01.alison-static.net/courses/6451/alison_courseware_intro_6451.jpg",
         filename:"Listing"
@@ -28,8 +28,8 @@ const sampleData = [
       country: "Greece"
     },
     {
-      title: "Mountain View Cabin",
-      description: "A cozy cabin in the mountains, perfect for hiking and relaxation.",
+      title: "CI/CD with Jenkin",
+      description: "Master continuous integration and deployment using Jenkins..",
       image:{
         url:"https://cdn01.alison-static.net/courses/6451/alison_courseware_intro_6451.jpg",
         filename:"Listing"
@@ -42,8 +42,8 @@ const sampleData = [
       country: "United States"
     },
     {
-      title: "Skyline Penthouse Suite",
-      description: "An exclusive penthouse suite offering breathtaking city views.",
+      title: "Google Cloud Platform (GCP) for Beginners",
+      description: "Learn how to use Google Cloud services effectively..",
       image:{
         url:"https://cdn01.alison-static.net/courses/6451/alison_courseware_intro_6451.jpg",
         filename:"Listing"
@@ -56,8 +56,8 @@ const sampleData = [
       country: "United States"
     },
     {
-      title: "Tropical Resort Bungalow",
-      description: "Stay in a private bungalow surrounded by lush greenery and tropical vibes.",
+      title: "Python for Ethical Hacking",
+      description: "Learn ethical hacking using Python programming..",
       image:{
         url:"https://www.blogtyrant.com/best-online-course-platforms/",
         filename:"Listing"
@@ -70,8 +70,8 @@ const sampleData = [
       country: "Indonesia"
     },
     {
-      title: "Desert Oasis Retreat",
-      description: "Experience tranquility in a desert resort with modern comforts.",
+      title: "Java Programming Masterclass",
+      description: "Learn Java programming from beginner to advanced level..",
       image:{
         url:"https://cdn01.alison-static.net/courses/7131/alison_courseware_intro_7131.jpg",
         filename:"Listing"
